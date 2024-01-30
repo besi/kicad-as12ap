@@ -1,4 +1,4 @@
 Switch AS12AP
 =============
 
-![](screenshot)
+![](screenshot.png)
